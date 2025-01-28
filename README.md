@@ -5,7 +5,7 @@
 
 <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/matrix.gif' alt = 'Awesome Matrix Code' align='right'/>
 
-
+## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
 - 🔭 I’m currently working on [PROYECTO TFG](https://github.com/IvanOliverFunesDev/metal-concerts-backend)
 
 - 🌱 I’m currently learning **Angular, Node.js, Express, MongoDB**
