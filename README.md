@@ -7,6 +7,9 @@
 
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
 <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/matrix.gif' alt = 'Awesome Matrix Code' align='right'/>
+
+- 🚀 Check out my portfolio: [personal-web-site-blond.vercel.app](https://personal-web-site-blond.vercel.app)
+
 - 🔭 I’m currently working on [PROYECTO TFG](https://github.com/IvanOliverFunesDev/metal-concerts-backend)
 
 - 🌱 I’m currently learning **Angular, Node.js, Express, MongoDB**
